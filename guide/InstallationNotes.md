@@ -16,6 +16,6 @@
 | 5号网口 | LAN3，用于连接至客户端（电脑、交换机），将客户端连接到智能网关 |
 | 天线柱  | 用于安装Wi-Fi天线（若硬件为无Wi-Fi版本，则无需安装）         |
 
-1. 检查配件是否完整。配件详情请参见 [硬件特性说明](https://cloud.tencent.com/document/product/1277/47251)。
+1. 检查配件是否完整。配件详情请参见 [硬件参数](/boundless-gateway/guide/HardwareFeatures.md)。
 2. 将 WAN 口（本文章以0号网口为例）连接至路由器，LAN 连接至客户端，然后接通电源。
 3. 若硬件为UCPE3601，需安装天线。
