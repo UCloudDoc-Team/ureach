@@ -6,6 +6,7 @@
   * [功能特性](/boundless-gateway/intro/function.md)
   * [使用限制](/boundless-gateway/intro/limit.md)
   * [技术架构](/boundless-gateway/intro/architecture.md)
+  * [应用场景](/boundless-gateway/intro/application.md)
 
 
 * 购买指南
