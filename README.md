@@ -10,13 +10,18 @@
 
 
 * 购买指南
+  * [硬件选型](/boundless-gateway/guide/HardwareFeatures.md)
   * [计费规则](/boundless-gateway/buy/charge.md)
+
 
 * 快速入门
   * [快速入门](/boundless-gateway/fast/quick_start.md)
 
 * 操作指南
-  * [硬件参数](/boundless-gateway/guide/HardwareFeatures.md)
+  UReach智能网关
+  * [安装说明](/boundless-gateway/guide/InstallationNotes.md)
+  * [初始化网络配置](/boundless-gateway/guide/NetworkConfiguration.md)
+  UReach加速线路
   * [安装说明](/boundless-gateway/guide/InstallationNotes.md)
   * [初始化网络配置](/boundless-gateway/guide/NetworkConfiguration.md)
 
