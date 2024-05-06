@@ -18,10 +18,10 @@
   * [快速入门](/boundless-gateway/fast/quick_start.md)
 
 * 操作指南
-  UReach智能网关
-  * [安装说明](/boundless-gateway/guide/InstallationNotes.md)
-  * [初始化网络配置](/boundless-gateway/guide/NetworkConfiguration.md)
-  UReach加速线路
-  * [安装说明](/boundless-gateway/guide/InstallationNotes.md)
-  * [初始化网络配置](/boundless-gateway/guide/NetworkConfiguration.md)
+  * UReach智能网关
+   * [安装说明](/boundless-gateway/guide/InstallationNotes.md)
+   * [初始化网络配置](/boundless-gateway/guide/NetworkConfiguration.md)
+  * UReach加速线路
+   * [安装说明](/boundless-gateway/guide/InstallationNotes.md)
+   * [初始化网络配置](/boundless-gateway/guide/NetworkConfiguration.md)
 
