@@ -2,15 +2,11 @@
 
 ## **单地域加速**
 
-链路说明：
-
 ![application1](/images/application1.png)
 
 &emsp;&emsp;适用于客户需要加速访问某特定地域的业务站点。如客户工厂在国内，总部业务站点发布在国外，国内工厂员工需要实现对国外总部业务的加速访问。只需将UReach智能网关部署本地网络，并在UCloud控制台开通特定的UReach加速线路即可轻松实现工厂到总部的加速访问。
 
 ## **多地域加速**
-
-链路说明：
 
 ![application2](/images/application2.png)
 
