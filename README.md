@@ -19,12 +19,12 @@
 
 * 操作指南
   * UReach智能网关
-   * [申请智能网关](/boundless-gateway/guide/InstallationNotes.md)
+   * [申请智能网关](/boundless-gateway/guide/BorrowHardware.md)
    * [初始化网络配置](/boundless-gateway/guide/NetworkConfiguration.md)
-   * [退还智能网关](/boundless-gateway/guide/NetworkConfiguration.md)
+   * [退还智能网关](/boundless-gateway/guide/ReturnHardware.md)
   * UReach加速线路
-   * [创建加速线路](/boundless-gateway/guide/InstallationNotes.md)
-   * [删除加速线路](/boundless-gateway/guide/NetworkConfiguration.md)
+   * [创建加速线路](/boundless-gateway/guide/BuyBandwidth.md)
+   * [删除加速线路](/boundless-gateway/guide/RemoveBandwidth.md)
   * UReach部署说明
    * [智能网关安装说明](/boundless-gateway/guide/InstallationNotes.md)
 
