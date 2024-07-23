@@ -60,3 +60,19 @@
 ![quick_start9](/images/quick_start9.png)
 
 ![quick_start10](/images/quick_start10.png)
+
+## **步骤四：为加速线路绑定白名单**
+
+1. 在加速线路页面找到需要添加白名单的线路，并点击详情按钮进入线路详情页。
+
+![quick_start11](/images/quick_start11.png)
+
+2. 进入线路高级配置，点击绑定按钮并选择适合业务场景的白名单进行绑定。
+
+![quick_start12](/images/quick_start12.png)
+
+![quick_start13](/images/quick_start13.png)
+
+3. 加速线路可绑定多个白名单，以适配业务场景。
+
+![quick_start14](/images/quick_start14.png)
