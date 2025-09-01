@@ -13,6 +13,7 @@
 * 购买指南
   * [硬件选型](/ureach/guide/HardwareFeatures.md)
   * [计费规则](/ureach/buy/charge.md)
+  * [回收规则](/ureach/buy/recycle.md)
 
 
 * 快速入门
